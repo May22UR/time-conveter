@@ -14,10 +14,6 @@ To use the Time Converter App, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-
-https://github.com/May22UR/time-conveter/assets/113128756/5a68c0e3-a012-4204-9014-1d953db5d510
-
-
    git clone https://github.com/May22UR/time-converter.git
 ## Navigate to the directory:
 - cd file_name
