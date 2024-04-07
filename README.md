@@ -1,17 +1,26 @@
 # Time Converter App
 
-The Time Converter App is a simple graphical application developed using Python's Tkinter library. It allows users to convert time between hours and seconds or seconds and hours.
+The Time Converter App is a simple utility developed using Python's Tkinter library. It provides a user-friendly interface for converting time between hours and seconds or seconds and hours.
 
 ## Features
 
-- Convert time from hours to seconds.
-- Convert time from seconds to hours.
+- Convert time between hours and seconds.
+- Convert time between seconds and hours.
 
 ## Installation
 
 To use the Time Converter App, follow these steps:
 
-1. Clone the repository:
+1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/anikethandore/Time_Converter_App.git
+   git clone https://github.com/May22UR/time-converter.git
+## Navigate to the directory:
+- cd file_name
+- python file_name.py
+- Follow the on-screen instructions to perform time conversions.
+  ##Test Video
+## Test Video
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
